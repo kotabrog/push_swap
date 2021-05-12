@@ -135,7 +135,7 @@ The following 11 types of procedures can be used (the first stack with an array 
 
 ## Sorting Algorithm
 
-- < 5 : Breadth-first search (bfs)
+- <= 5 : Breadth-first search (bfs)
 - \> 5 : Similar to quick sort (Please refer to the reference URL)
 
 ## Reference
