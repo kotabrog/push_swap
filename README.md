@@ -133,6 +133,14 @@ The following 11 types of procedures can be used (the first stack with an array 
 - rrb: Bring the last element of b to the beginning and advance the whole thing back one.
 - rrr: Do rra and rrb at the same time
 
+The performance of this push_swap is as follows
+
+- len 5 : max 8
+- len 100: max 698, average 644 (2000 tests)
+- len 500: max 4923, average 4781 (2000 tests)
+- len 1000: max 11154, average 10999 (500 tests)
+- len 10000: max 159663, average 159093 (100 tests)
+
 ## Sorting Algorithm
 
 - <= 5 : Breadth-first search (bfs)
