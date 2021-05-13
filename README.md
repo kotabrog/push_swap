@@ -149,6 +149,7 @@ The performance of this push_swap is as follows
 ## Reference
 
 - [syamashi's push_swap](https://note.com/syamashi/n/n602158ffc662)
+- [nfukada's slide](https://docs.google.com/presentation/d/1c2PU6ZST7uMwNHl6aAz2WsJ5QFf1J7JJsMkW0VSTXc8/edit#slide=id.p)
 
 ## Author
 
